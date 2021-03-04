@@ -1,0 +1,39 @@
+.raise:hover {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
+
+.raise {
+    --color: #04ffde;
+    --hover: #ff951c;
+  }
+  button {
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 1em 2em;
+ 
+  }
+
+  body {
+    color: #fff;
+    background: #17181c;
+    font: 300 1em "Fira Sans", sans-serif;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+  }
+  
+button {
+    color: var(--color);
+    transition: 0.25s;
+  }
+  button:hover, button:focus {
+    border-color: var(--hover);
+    color: var(--hover);
+  }
