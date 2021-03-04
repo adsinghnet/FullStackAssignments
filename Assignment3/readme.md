@@ -4,8 +4,6 @@ Button Styling: The button will raise upward and some shadow will appear at the 
 
 <p text-align="center"><h3>Preview</h3></p>
 
-<p align="center">
-  <img width="200" src="demo.gif" alt="demo.gif">
-</p>
+![Demo](demo.gif)
 
 @http://projects.adsingh.net/?p=402
