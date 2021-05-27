@@ -1,5 +1,7 @@
 # Assignment 2
 Responsive website with Navigation bar, Cover image, Flip cards and footer.
+## Live example:
+- ***[Assignment2 (Simple Website)](https://codepen.io/arsh-deep-singh/full/xxRjYKp)***
 
 
 <p text-align="center"><h3>Click on the image for preview</h3></p>
